@@ -1,0 +1,8 @@
+{
+  "name": "GridMind",
+  "description": "Smart Energy Microgrid \u0026 Demand Forecasting Engine for HackSphere 3.0 featuring Zoho Catalyst QuickML integration, 24-hour demand forecasting, exact grid transition rules, and battery management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

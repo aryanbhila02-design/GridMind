@@ -1,0 +1,14 @@
+{
+  "appsail": [
+    {
+      "name": "GridMind",
+      "source": ".",
+      "build": "npm run build",
+      "run": "npm start",
+      "env_variables": {
+        "PORT": "3000",
+        "NODE_ENV": "production"
+      }
+    }
+  ]
+}
